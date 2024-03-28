@@ -1,0 +1,57 @@
+F:\Hutech\Winform\Winform\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe.config
+F:\Hutech\Winform\Winform\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe
+F:\Hutech\Winform\Winform\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.pdb
+F:\Hutech\Winform\Winform\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.AssemblyReference.cache
+F:\Hutech\Winform\Winform\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.SuggestedBindingRedirects.cache
+F:\Hutech\Winform\Winform\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmMain.resources
+F:\Hutech\Winform\Winform\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+F:\Hutech\Winform\Winform\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.GenerateResource.cache
+F:\Hutech\Winform\Winform\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CoreCompileInputs.cache
+F:\Hutech\Winform\Winform\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
+F:\Hutech\Winform\Winform\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
+F:\Hutech\Winform\Winform\QuanLyBanHang\QuanLyBanHang\bin\Debug\QLBanHang.mdf
+F:\Hutech\Winform\Winform\QuanLyBanHang\QuanLyBanHang\bin\Debug\QLBanHang_log.ldf
+F:\Hutech\Windows Form\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe.config
+F:\Hutech\Windows Form\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe
+F:\Hutech\Windows Form\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.pdb
+F:\Hutech\Windows Form\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.AssemblyReference.cache
+F:\Hutech\Windows Form\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.SuggestedBindingRedirects.cache
+F:\Hutech\Windows Form\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmMain.resources
+F:\Hutech\Windows Form\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+F:\Hutech\Windows Form\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.GenerateResource.cache
+F:\Hutech\Windows Form\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CoreCompileInputs.cache
+F:\Hutech\Windows Form\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
+F:\Hutech\Windows Form\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
+F:\Hutech\Windows Form\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmDMChatLieu.resources
+F:\Hutech\Windows Form\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmDMNhanVien.resources
+F:\Hutech\Windows Form\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmDMKhachHang.resources
+F:\Hutech\Windows Form\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmDMHangHoa.resources
+F:\Hutech\Windows Form\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmHoaDonBan.resources
+F:\Hutech\Windows Form\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmTimKiemHoaDon.resources
+F:\Hutech\Windows Form\QuanLyBanHang\QuanLyBanHang\bin\Debug\EntityFramework.dll
+F:\Hutech\Windows Form\QuanLyBanHang\QuanLyBanHang\bin\Debug\EntityFramework.SqlServer.dll
+F:\Hutech\Windows Form\QuanLyBanHang\QuanLyBanHang\bin\Debug\EntityFramework.xml
+F:\Hutech\Windows Form\QuanLyBanHang\QuanLyBanHang\bin\Debug\EntityFramework.SqlServer.xml
+F:\Hutech\Windows Form\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CopyComplete
+F:\Do An\Windows Form\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe.config
+F:\Do An\Windows Form\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe
+F:\Do An\Windows Form\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.pdb
+F:\Do An\Windows Form\QuanLyBanHang\QuanLyBanHang\bin\Debug\EntityFramework.dll
+F:\Do An\Windows Form\QuanLyBanHang\QuanLyBanHang\bin\Debug\EntityFramework.SqlServer.dll
+F:\Do An\Windows Form\QuanLyBanHang\QuanLyBanHang\bin\Debug\EntityFramework.xml
+F:\Do An\Windows Form\QuanLyBanHang\QuanLyBanHang\bin\Debug\EntityFramework.SqlServer.xml
+F:\Do An\Windows Form\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.AssemblyReference.cache
+F:\Do An\Windows Form\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.SuggestedBindingRedirects.cache
+F:\Do An\Windows Form\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmDMChatLieu.resources
+F:\Do An\Windows Form\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmDMHangHoa.resources
+F:\Do An\Windows Form\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmDMKhachHang.resources
+F:\Do An\Windows Form\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmDMNhanVien.resources
+F:\Do An\Windows Form\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmHoaDonBan.resources
+F:\Do An\Windows Form\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmMain.resources
+F:\Do An\Windows Form\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmTimKiemHoaDon.resources
+F:\Do An\Windows Form\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+F:\Do An\Windows Form\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.GenerateResource.cache
+F:\Do An\Windows Form\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CoreCompileInputs.cache
+F:\Do An\Windows Form\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CopyComplete
+F:\Do An\Windows Form\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
+F:\Do An\Windows Form\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
